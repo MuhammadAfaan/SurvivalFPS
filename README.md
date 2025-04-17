@@ -22,6 +22,6 @@ C++ (OOP, DSA Concepts)
 
 Blueprint Scripting
 
-****📦 Project Files****
+****🎥 Demo & Gameplay****
 
-Download the full project here: [Google Drive Link](https://drive.google.com/drive/folders/12icvhi_4xHsBBXMIYJYytSMbra5580s6?usp=sharing)
+Watch the gameplay demo here: [Google Drive Demo Link](https://drive.google.com/file/d/1eNV3fBbJwU9lKTipCjDRIckG3G3M9lQ7/view?usp=sharing)
